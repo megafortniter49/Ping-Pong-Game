@@ -39,9 +39,6 @@ Contributions to improve the game are welcome. Please follow these steps to cont
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a pull request.
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Acknowledgments
 - [Pygame Documentation](https://www.pygame.org/docs/) for providing comprehensive guides and tutorials.
 - The open-source community for continuous inspiration and support.
